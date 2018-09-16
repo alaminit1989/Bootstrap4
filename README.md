@@ -1,7 +1,9 @@
 # Dillinger
 
 > The overriding design goal for Markdown's
+
 > formatting syntax is to make it as readable
+
 > as possible. The idea is that a
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
